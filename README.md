@@ -1,4 +1,4 @@
-# Installation Procedures for Eberly Debain Systems
+# Installation Procedures for Eberly Debian Systems
 
 ## 1. Boot standard netinst
 ## 2. Select Advanced options
