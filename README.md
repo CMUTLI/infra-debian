@@ -28,7 +28,7 @@ The default username of `deploy` is provided by the preseed file. The first `sta
 
 ![Screenshot showing a default deploy password entered](/assets/6-deploy.png)
 
-## 8. Enter a temporary root password
+## 8. Confirm temporary deploy user password
 
 ![Screenshot showing a deploy password confirmation entered](/assets/7-deploy-confirm.png)
 
