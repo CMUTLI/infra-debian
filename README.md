@@ -1,4 +1,4 @@
-# Installation Procedures for Eberly Debian Systems
+# Installation Procedures for TLI Debian Systems
 
 ## 1. Boot standard netinst
 ## 2. Select Advanced options
@@ -10,7 +10,7 @@
 ![Screenshot showing Automated Install selected](/assets/2-automated.png)
 
 ## 4. Enter Debian preconfiguration file location
-Use `debian.eberly.cmu.edu`; it will assume the default file path for the distribution.
+Use `debian.tli.cmu.edu`; it will assume the default file path for the distribution.
 
 ![Screenshot showing Download Debconf Preconfiguration File URI entered](/assets/3-preseed.png)
 
