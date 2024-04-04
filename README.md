@@ -12,6 +12,9 @@
 ## 4. Enter Debian preconfiguration file location
 Use `debian.tli.cmu.edu`; it will assume the default file path for the distribution.
 
+> [!NOTE]  
+> If you want to use the development salt master, use `debian.tli.cmu.edu/d-i/bullseye/preseed-dev.cfg`
+
 ![Screenshot showing Download Debconf Preconfiguration File URI entered](/assets/3-preseed.png)
 
 ## 5. Enter a temporary root password
